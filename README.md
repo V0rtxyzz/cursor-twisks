@@ -24,7 +24,7 @@ Sem ESP, sem speed hack, sem jump hack, sem `loadstring` de terceiros embutido n
 3. Cole o código abaixo na caixa de execução do executor:
 
 ```
-loadstring(game:HttpGet("https://raw.githubusercontent.com/V0rtxyzz/cursor-twisks/refs/heads/main/cursortwisks.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/V0rtxyzz/cursor-twisks/refs/heads/main/cursortwisks-1.lua"))()
 ```
 
 4. Clique em **Execute**.
